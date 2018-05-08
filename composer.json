@@ -14,5 +14,5 @@
     ],
     "require": {
         "larscmagnusson/composer-tryout-grandchild" : "1.0.0"
-    }
+    } 
 }
